@@ -1,4 +1,4 @@
-const dataArr = ['1','5','6','1','3','5','90','334','1', '555'];
+const dataArr = ['Matt Johnson','Bart Paden','Ryan Doss','Miguel Solano','Matt Johnson','Bart Paden','Jordan Heigle','Tyler Viles'];
 
 const resultArr = dataArr.filter((data,index)=>{
   return dataArr.indexOf(data) === index;

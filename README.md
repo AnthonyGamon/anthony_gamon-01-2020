@@ -1,5 +1,8 @@
 # Submission
 
+Here is the live link to my application : https://anthonygamon.github.io/anthony_gamon-01-2020/
+Here is the link to the github repo : https://github.com/AnthonyGamon/anthony_gamon-01-2020
+
 ### Contact Information
 - Anthony Gamon
 - (316)871 - 6226
@@ -40,6 +43,15 @@ Anthony
 
 ### Code Test
 
-Any details you'd like to mention about your code test.
+This was a really interesting challenge to get it as close to the image given. But overall really fun to test my HTML, CSS and JS skills! The only part that tripped me up was I wasn't sure how I should have displayed the Javascript puzzle. I went ahead and just did a 
 
 ---
+
+
+
+const dataArr = ['Matt Johnson','Bart Paden','Ryan Doss','Miguel Solano','Matt Johnson','Bart Paden','Jordan Heigle','Tyler Viles'];
+
+const resultArr = dataArr.filter((data,index)=>{
+  return dataArr.indexOf(data) === index;
+})
+console.log(resultArr); 
