@@ -1,7 +1,7 @@
 # Submission
 
 Here is the live link to my application : https://anthonygamon.github.io/anthony_gamon-01-2021/
-Here is the link to the github repo : https://github.com/AnthonyGamon/anthony_gamon-01-2020
+Here is the link to the github repo : https://github.com/AnthonyGamon/anthony_gamon-01-2021
 
 ### Contact Information
 - Anthony Gamon
